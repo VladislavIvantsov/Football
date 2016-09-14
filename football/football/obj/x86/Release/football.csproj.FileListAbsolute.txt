@@ -1,0 +1,9 @@
+C:\Users\master\Desktop\football\football\football\bin\Release\football.exe
+C:\Users\master\Desktop\football\football\football\bin\Release\football.pdb
+C:\Users\master\Desktop\football\football\football\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\master\Desktop\football\football\football\obj\x86\Release\football.Form1.resources
+C:\Users\master\Desktop\football\football\football\obj\x86\Release\football.Properties.Resources.resources
+C:\Users\master\Desktop\football\football\football\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\master\Desktop\football\football\football\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\master\Desktop\football\football\football\obj\x86\Release\football.exe
+C:\Users\master\Desktop\football\football\football\obj\x86\Release\football.pdb

@@ -1,0 +1,42 @@
+C:\Users\master\Desktop\football\football\football\bin\Debug\football.exe
+C:\Users\master\Desktop\football\football\football\bin\Debug\football.pdb
+C:\Users\master\Desktop\football\football\football\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\master\Desktop\football\football\football\obj\x86\Debug\football.Form1.resources
+C:\Users\master\Desktop\football\football\football\obj\x86\Debug\football.Properties.Resources.resources
+C:\Users\master\Desktop\football\football\football\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\master\Desktop\football\football\football\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\master\Desktop\football\football\football\obj\x86\Debug\football.exe
+C:\Users\master\Desktop\football\football\football\obj\x86\Debug\football.pdb
+C:\Users\Dok\Desktop\football\football\obj\x86\Debug\football.exe
+C:\Users\Dok\Desktop\football\football\obj\x86\Debug\football.pdb
+C:\Users\Dok\Desktop\football\football\bin\Debug\football.exe
+C:\Users\Dok\Desktop\football\football\bin\Debug\football.pdb
+C:\Users\Dok\Desktop\football\football\obj\x86\Debug\football.csprojResolveAssemblyReference.cache
+C:\Users\Dok\Desktop\football\football\obj\x86\Debug\football.Form1.resources
+C:\Users\Dok\Desktop\football\football\obj\x86\Debug\football.Properties.Resources.resources
+C:\Users\Dok\Desktop\football\football\obj\x86\Debug\football.csproj.GenerateResource.Cache
+C:\Users\Dok\Desktop\Научка\football\football\obj\x86\Debug\football.exe
+C:\Users\Dok\Desktop\Научка\football\football\obj\x86\Debug\football.pdb
+C:\Users\Dok\Desktop\Научка\football\football\bin\Debug\football.exe
+C:\Users\Dok\Desktop\Научка\football\football\bin\Debug\football.pdb
+C:\Users\Dok\Desktop\Научка\football\football\obj\x86\Debug\football.csprojResolveAssemblyReference.cache
+C:\Users\Dok\Desktop\Научка\football\football\obj\x86\Debug\football.Form1.resources
+C:\Users\Dok\Desktop\Научка\football\football\obj\x86\Debug\football.Properties.Resources.resources
+C:\Users\Dok\Desktop\Научка\football\football\obj\x86\Debug\football.csproj.GenerateResource.Cache
+D:\work\2 курс\_my\football\football\football\obj\x86\Debug\football.exe
+D:\work\2 курс\_my\football\football\football\obj\x86\Debug\football.pdb
+D:\work\2 курс\_my\football\football\football\bin\Debug\football.exe
+D:\work\2 курс\_my\football\football\football\bin\Debug\football.pdb
+D:\work\2 курс\_my\football\football\football\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\2 курс\_my\football\football\football\obj\x86\Debug\football.Form1.resources
+D:\work\2 курс\_my\football\football\football\obj\x86\Debug\football.Properties.Resources.resources
+D:\work\2 курс\_my\football\football\football\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\work\2 курс\_my\football\football\football\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexey\Dropbox\Study\Курсач Программирование\football\football\obj\x86\Debug\football.exe
+C:\Users\Alexey\Dropbox\Study\Курсач Программирование\football\football\obj\x86\Debug\football.pdb
+C:\Users\Alexey\Dropbox\Study\Курсач Программирование\football\football\bin\Debug\football.exe
+C:\Users\Alexey\Dropbox\Study\Курсач Программирование\football\football\bin\Debug\football.pdb
+C:\Users\Alexey\Dropbox\Study\Курсач Программирование\football\football\obj\x86\Debug\football.csprojResolveAssemblyReference.cache
+C:\Users\Alexey\Dropbox\Study\Курсач Программирование\football\football\obj\x86\Debug\football.Form1.resources
+C:\Users\Alexey\Dropbox\Study\Курсач Программирование\football\football\obj\x86\Debug\football.Properties.Resources.resources
+C:\Users\Alexey\Dropbox\Study\Курсач Программирование\football\football\obj\x86\Debug\football.csproj.GenerateResource.Cache
